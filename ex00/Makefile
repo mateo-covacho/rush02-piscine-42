@@ -1,3 +1,3 @@
-cc -Wall -Wextra -Werror *.c -o rush02.out
+cc -Wall -Wextra -Werror *.c -o rush-02.out
 
 
