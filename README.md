@@ -12,6 +12,7 @@
 ## pasos:
  - [ ] parse number arguments 
     - [ ] if 2 arguments the first is a dictionary
+    - [ ] Si el argumento no es un número entero sin signo -> ’Error’ seguido de un salto de líne
     - [ ] check for edge cases / invalid arguments 
  - [ ] count digit quantity
  - [ ] divide into digits array
